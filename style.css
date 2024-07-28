@@ -1,0 +1,41 @@
+html{
+    background-color: black;
+}
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+#container{
+    
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.brahmi{
+    border: 5px solid white;
+    width: 100%;
+}
+#main{
+
+        color: white;
+        font-family: "Libre Baskerville", serif;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 100px;
+        text-align: center;
+        justify-content: space-between;
+}
+#gap{
+    margin-right: 20px;
+}
+.text{
+        color: white;
+        font-family: "Libre Baskerville", serif;
+        margin-left: 25%;
+        text-align: center;
+        justify-content: space-between;
+}
